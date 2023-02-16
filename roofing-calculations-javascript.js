@@ -114,7 +114,7 @@ function response(x) {
   " The replacement should take 4-7 days.", 
   " The replacement should take a week",
   " The replacement should take 7-9 days",
-  " This roof is huge and will take forever to replace."];
+  " The replacement should take over a month."];
   if (x < 100) {
   return commentary[0];
   } else if (x < 400) {
